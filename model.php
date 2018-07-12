@@ -9,7 +9,7 @@ use Fix\Kernel\Kernel;
 use Fix\Kernel\Url;
 use Fix\Settings\Kernel as Settings;
 
-class Model
+class model
 {
 
     /**
